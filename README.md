@@ -7,6 +7,7 @@ Test assessment
 **## Pre-requisites:**
 ### - Java 1.8 is installed.
 ### - Download all the dependencies mentioned in the pom.
+### - Download and install any of the interface eclipse or intellij, Preferred is Intellij latest version.
 ### - Find the requirement program in URL: https://github.com/manjukab7/TestVagrant/tree/master/src/main/java
 
 **## Steps for execution:**
